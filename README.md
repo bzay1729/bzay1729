@@ -57,8 +57,15 @@
   <a href="https://www.kali.org/" target="_blank">
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   </a>
-  <a href="https://nmap.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+ <a href="https://nmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nmap-0071C5?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap Badge" />
+    <img src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" alt="Nmap Icon" width="40" height="40" style="vertical-align: middle; margin-left: 10px;" />
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
   </a>
 </p>
 
