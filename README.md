@@ -48,7 +48,20 @@
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=arduino" alt="Arduino" />
   </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  </a>
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+  </a>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  </a>
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  </a>
 </p>
+
 
 ---
 
