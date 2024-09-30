@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **bzay1729@gmail.com**
 
-- ⚡ Fun fact [I am Funny and friendly.](I am Funny and friendly.)
+- ⚡ Fun fact I am Funny and friendly.I am Funny and friendly.
 
 - ⚽ Hobby **Loves Soccer. Great Fan of Barcelona and Messi.**
 
