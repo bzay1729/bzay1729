@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @devil-bj
-- 👀 I’m interested in Java, Mobile App Development.
-- 🌱 I’m currently learning Springboot.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m BIJAY POKHREL
+- Master's in Computer Science student at SMU
+- Passionate in AI, DBMS and cyber-security.
 - 📫 My mail id is :bzay1729@gmail.com
 
 <!---
