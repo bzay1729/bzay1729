@@ -48,7 +48,7 @@
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=arduino" alt="Arduino" />
   </a>
-  <a href="https://www.wireshark.org/" target="_blank">
+  <a href="https://www.wireshark.org/" target="_blank"
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   </a>
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
@@ -67,6 +67,9 @@
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
   </a>
+ <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" alt="Java Badge with Oracle Icon" />
+</a>
 </p>
 
 
