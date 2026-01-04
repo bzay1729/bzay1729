@@ -1,7 +1,7 @@
 ![logo](https://github.com/devil-bj/devil-bj/blob/main/mbabanner.jpg)
 
 <h1 align="center">Hi 👋, I'm Bijay Pokhrel</h1>
-<h3 align="center">Currently pursuing Master's of Science in Computer Science (MSCS) at Southern Methodist University (SMU), Dallas, Texas, USA.</h3>
+<h3 align="center"> A recent graduate student from Southern Methodist University (SMU), Dallas, Texas, USA.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=Python+Developer;AI+Enthusiast;Cybersecurity+Learner;Machine+Learning" alt="Typing SVG" />
