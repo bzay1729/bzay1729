@@ -87,7 +87,7 @@ End-to-end phishing detection pipeline using classical ML and deep learning mode
 ## 🏆 Achievements
 <p align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=bzay1729&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=bzay1729&theme=radical&no-frame=true&rows=1&column=6" />
 
   - 🎓 **AT&T & SMU Data Science Scholars Program (DSSP) – 2025**
   - 🏅 Selected for a competitive, industry-sponsored data science program.
