@@ -86,8 +86,6 @@ End-to-end phishing detection pipeline using classical ML and deep learning mode
 
 ## 🏆 Achievements
 <p align="center">
-
-
   <img src="https://github-profile-trophy.vercel.app/?username=bzay1729&theme=radical&no-frame=true&rows=1&column=6&cache=2" alt="trophies" />
 
 
