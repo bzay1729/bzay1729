@@ -19,7 +19,7 @@ AI/ML · Data Science · NLP · GenAI (Text-to-SQL)
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&height=50&lines=AI+%26+ML+Engineer;Data+Scientist;NLP+%26+LLM+Practitioner;Text-to-SQL+%7C+Spider+Benchmark+%7C+PEFT%2FLoRA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&height=50&lines=AI+%26+ML+Engineer;Data+Scientist;NLP+%26+LLM+Practitioner;Text-to-SQL+%7C+Spider+Benchmark;Customer+Segmentation+%7C+Telecom+Analytics" />
 </p>
 
 <img align="right" alt="Coding" width="500"
@@ -29,23 +29,25 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 
 ## 👨‍💻 About Me
 I am a **Computer Science graduate (AI & Cybersecurity)** with **hands-on industry experience in AI/ML and Data Science at AT&T**.  
-I build **end-to-end ML/NLP systems** with a strong focus on **LLMs, structured prediction (Text-to-SQL), evaluation**, and real-world performance trade-offs.
+I build **end-to-end ML and NLP systems**, with experience across **LLMs, Text-to-SQL, customer segmentation, and large-scale data analytics**.
 
 🎯 **Target Roles:** **AI/ML Engineer · Data Scientist · Applied GenAI / NLP Engineer**  
-🧠 **Specialization:** **Text-to-SQL & Structured Prediction (Spider Benchmark) using PEFT/LoRA**
+🧠 **Specializations:**  
+- **Text-to-SQL & Structured Prediction (Spider Benchmark)**  
+- **Customer Segmentation & Behavioral Analytics (Telecom Data)**  
 
 ---
 
-## 📈 Impact Highlights (Industry)
-- Raised **Text-to-SQL execution accuracy from 42% → 70%** using **LoRA-fine-tuned LLMs** across multi-schema databases  
-- Analyzed **200K+ telecom customers** using **EDA + PCA + supervised ML** to support retention-focused insights  
-- Built explainable ML workflows using **SHAP** and business-facing visualizations
+## 📈 Industry Impact Highlights (AT&T)
+- Improved **Text-to-SQL execution accuracy from 42% → 70%** using **LoRA-fine-tuned LLMs** across multi-schema databases  
+- Conducted **customer segmentation on 200K+ telecom customers** using **EDA, PCA, and clustering** to uncover behavioral patterns for retention strategy  
+- Built explainable ML workflows using **SHAP**, enabling business-facing insights and transparent model decisions  
 
 ---
 
-## 🚀 Featured Projects
-🔹 **Spider Text-to-SQL Fine-Tuning**  
-Schema-aware fine-tuning on Spider using **LLaMA, Unsloth, PEFT, and LoRA**  
+## 🚀 Featured GitHub Projects
+🔹 **Spider Text-to-SQL Fine-Tuning (LLMs)**  
+Schema-aware fine-tuning on the Spider benchmark using **LLaMA, Unsloth, PEFT, and LoRA**  
 👉 **Repo:** `spider-text-to-sql-finetuning`
 
 🔹 **Media Bias Detection (NLP)**  
@@ -67,8 +69,7 @@ End-to-end phishing detection pipeline using classical ML and deep learning mode
   <img src="https://img.shields.io/badge/HuggingFace-000?style=for-the-badge&logo=huggingface" />
   <img src="https://img.shields.io/badge/PEFT%20(LoRA)-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Unsloth-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=tableau" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=databricks" />
   <img src="https://img.shields.io/badge/Google%20Cloud-000?style=for-the-badge&logo=googlecloud" />
   <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws" />
 </p>
@@ -81,10 +82,6 @@ End-to-end phishing detection pipeline using classical ML and deep learning mode
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bzay1729&theme=radical" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzay1729&layout=compact&theme=radical" height="160" />
-</p>
-
 ---
 
 ## 🏆 Achievements
@@ -95,6 +92,7 @@ End-to-end phishing detection pipeline using classical ML and deep learning mode
 ---
 
 ## 🤝 Open to Collaborate
-If you're working on **NLP, LLM fine-tuning, Text-to-SQL, or applied ML projects**, feel free to reach out.
+Interested in **LLMs, NLP, Text-to-SQL, customer analytics, or applied ML projects**?  
+Feel free to reach out.
 
 ⚽ Fun fact: Huge Messi fan and love playing soccer!
