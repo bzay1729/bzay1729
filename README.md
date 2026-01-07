@@ -85,7 +85,7 @@ End-to-end phishing detection pipeline using classical ML and deep learning mode
 ---
 
 ## 🏆 Achievements
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/AT%26T%20%26%20SMU-DSSP%202025-blueviolet?style=for-the-badge" />
 </p>
 
