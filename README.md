@@ -90,8 +90,8 @@ End-to-end phishing detection pipeline using classical ML and deep learning mode
   <img src="https://github-profile-trophy.vercel.app/?username=bzay1729&theme=radical&no-frame=true&row=1&column=6" />
 
   - 🎓 **AT&T & SMU Data Science Scholars Program (DSSP) – 2025**
-  - 🏅 Selected for a competitive, industry-sponsored data science program
-  - 🚀 Delivered applied ML and NLP solutions on real-world telecom data
+  - 🏅 Selected for a competitive, industry-sponsored data science program.
+  - 🚀 Delivered applied ML and NLP solutions on real-world telecom data.
 
 </p>
 
