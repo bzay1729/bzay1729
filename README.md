@@ -87,11 +87,11 @@ End-to-end phishing detection pipeline using classical ML and deep learning mode
 ## 🏆 Achievements
 <p align="center">
   <img src="https://img.shields.io/badge/AT%26T%20%26%20SMU-DSSP%202025-blueviolet?style=for-the-badge" />
-  - 🎓 **AT&T & SMU Data Science Scholars Program (DSSP) – 2025**
-  - 🏅 Selected for a competitive, industry-sponsored data science program.
-  - 🚀 Delivered applied ML and NLP solutions on real-world telecom data.
-
 </p>
+
+- 🎓 **AT&T & SMU Data Science Scholars Program (DSSP) – 2025**
+- 🏅 Selected for a competitive, industry-sponsored data science program
+- 🚀 Delivered applied ML and NLP solutions on real-world telecom data.
 
 ---
 
