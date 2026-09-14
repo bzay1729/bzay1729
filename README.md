@@ -170,26 +170,19 @@ During the **AT&T and SMU Data Science Scholars Program**, I worked on applied A
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=bzay1729&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="165"
-    alt="Bijay's GitHub statistics"
-  />
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=bzay1729&theme=tokyonight&hide_border=true"
-    height="165"
+    height="170"
     alt="Bijay's GitHub contribution streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzay1729&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="Most used programming languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bzay1729&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+    alt="Bijay's GitHub contribution graph"
   />
 </p>
-
----
 
 ## 🤝 Let's Connect
 
@@ -198,10 +191,9 @@ I am always interested in connecting with people working in **artificial intelli
 If you are building something interesting, looking for a collaborator, or discussing an opportunity, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/bijay-pokhrel-172ba0251) or [email](mailto:bzay1729@gmail.com).
 
 ---
-
 ### ⚡ Fun Fact
 
-I can troubleshoot a motherboard, build a machine-learning pipeline, and explain both in plain English.
+I started out repairing motherboards. These days, I build AI systems—and I still enjoy figuring out why things break.
 
 <p align="center">
   <strong>Thanks for visiting my profile!</strong>
