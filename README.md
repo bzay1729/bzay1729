@@ -1,7 +1,7 @@
 <h1 align="center">Bijay Pokhrel</h1>
 
 <h3 align="center">
-  Applied AI · Machine Learning · Python Engineering
+  Python Engineering · GenAI · Machine Learning · Data Science
 </h3>
 
 <p align="center">
