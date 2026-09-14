@@ -254,6 +254,12 @@ Focus: Artificial Intelligence, Machine Learning, and Cybersecurity
 **Bachelor of Science in Computer Science and Information Technology**  
 Tribhuvan University · Nepal
 
+## Certifications & Professional Development
+
+| Certification | Issuing Organization | Status | Credential |
+|---|---|---|---|
+| AWS Certified Machine Learning Engineer - Associate | AWS | In-progress | — |
+
 ### Applied Learning
 
 **AT&T and SMU Data Science Scholars Program · 2025**
