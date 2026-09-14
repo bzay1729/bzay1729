@@ -7,7 +7,7 @@ AI/ML Engineer · Data Scientist · Generative AI & NLP Practitioner
 </h3>
 
 <p align="center">
-M.S. in Computer Science with specializations in Artificial Intelligence, Machine Learning, and Cybersecurity<br/>
+M.S. in Computer Science with specializations in Artificial Intelligence, Machine Learning, and Python Software Engineer<br/>
 Southern Methodist University · Dallas, Texas
 </p>
 
