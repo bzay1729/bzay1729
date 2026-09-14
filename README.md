@@ -1,98 +1,140 @@
-<h1 align="center">Hey, I'm Bijay Pokhrel 👋</h1>
+<h1 align="center">Bijay Pokhrel</h1>
 
 <h3 align="center">
-  Machine Learning · Generative AI · Python
+  Applied AI · Machine Learning · Python Engineering
 </h3>
 
 <p align="center">
-  I enjoy turning ideas into working projects—and understanding what happens along the way.
+  <a href="#selected-work">
+    <img
+      src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+      width="420"
+      alt="Coding animation — explore my selected work"
+    />
+  </a>
 </p>
 
 <p align="center">
-  M.S. in Computer Science · Southern Methodist University<br/>
-  AI/ML & Cybersecurity · Dallas–Fort Worth, Texas
+  Building useful AI systems through careful experimentation,<br/>
+  clear evaluation, and practical software engineering.
 </p>
 
 <p align="center">
-  <a href="https://github.com/bzay1729?tab=repositories"><strong>Explore My Code</strong></a>
-  &nbsp; · &nbsp;
+  <a href="#selected-work">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1400&color=58A6FF&center=true&vCenter=true&width=850&height=65&lines=Natural+Language+%E2%86%92+SQL;Documents+%E2%86%92+Searchable+Knowledge;Customer+Data+%E2%86%92+Actionable+Insights"
+      width="850"
+      alt="Text-to-SQL · Document retrieval · Customer analytics"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#selected-work"><strong>Selected Work</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/bzay1729?tab=repositories"><strong>Repositories</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bijay-pokhrel-172ba0251"><strong>LinkedIn</strong></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:bzay1729@gmail.com"><strong>Get in Touch</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:bzay1729@gmail.com"><strong>Contact</strong></a>
 </p>
 
+<p align="center">
+  M.S. Computer Science, Southern Methodist University<br/>
+  AI/ML &amp; Cybersecurity · Dallas–Fort Worth, Texas
+</p>
+
+<hr/>
+
+## Engineering Focus
+
+I work with Python, machine learning, and language models to solve
+problems in information retrieval, structured query generation,
+and customer analytics.
+
+During the AT&T and SMU Data Science Scholars Program, my work included
+LoRA fine-tuning for Text-to-SQL, document retrieval with embeddings
+and FAISS, and analysis of telecom customer data.
+
+My background also includes software development, teaching, and
+technical operations. These experiences shape how I approach engineering:
+understand the problem, establish a baseline, examine failures,
+and make the result understandable to the people using it.
+
+<details>
+<summary><strong>01 &nbsp; Applied AI and language models</strong></summary>
+
+<br/>
+
+**Text-to-SQL**
+
+Fine-tuning and evaluating language models on the Spider benchmark,
+with attention to database schemas, query correctness,
+and execution-based evaluation.
+
+**Retrieval-augmented generation**
+
+Preparing documents, generating embeddings, retrieving relevant
+passages, and supplying source context to language models.
+
+**Tools:** Python, SQL, Hugging Face, Unsloth, PEFT, LoRA,
+MiniLM, FAISS, and PyMuPDF.
+
+</details>
+
+<details>
+<summary><strong>02 &nbsp; Machine learning and customer analytics</strong></summary>
+
+<br/>
+
+Exploring customer behavior through data analysis, feature engineering,
+dimensionality reduction, clustering, and classification.
+
+My work includes telecom datasets with more than 200,000 records
+and model interpretation using SHAP.
+
+**Tools:** Pandas, NumPy, scikit-learn, XGBoost, PCA,
+K-means, SHAP, and visualization libraries.
+
+</details>
+
+<details>
+<summary><strong>03 &nbsp; Software and operational problem-solving</strong></summary>
+
+<br/>
+
+At Abbott, I built an instrument-tracking application using
+Power Apps and SharePoint to improve team coordination.
+
+The project reduced queue conflicts by approximately 90%
+and contributed an estimated $70,000 in annual savings.
+
+That work reinforced an important lesson: a useful application
+starts with understanding how people actually work.
+
+</details>
+
+<details>
+<summary><strong>04 &nbsp; Current development</strong></summary>
+
+<br/>
+
+I'm rebuilding a telecom customer churn project with a documented,
+reproducible workflow, starting with data validation and exploration.
+
+The planned next stages include model comparison, explainability,
+API integration, and deployment.
+
+Alongside this work, I'm developing my understanding of MLOps,
+AI agents, and MCP through practical implementations.
+
+</details>
+
 ---
 
-## 👋 Get to Know Me
+<a id="selected-work"></a>
 
-My background spans software development, teaching, hardware troubleshooting,
-and applied AI. Across those experiences, I've always enjoyed the same thing:
-understanding a problem well enough to build something useful.
-
-During the **AT&T and SMU Data Science Scholars Program**, I worked on
-Text-to-SQL, retrieval-augmented generation, and telecom analytics.
-I'm continuing to build on that experience through hands-on projects
-and learning how to take models beyond the notebook.
-
-**Click below to explore what I'm working on.**
-
-<details>
-<summary><strong>🧠 My experience with AI</strong></summary>
-
-I've worked with language models that translate questions into SQL,
-retrieval pipelines that search documents, and machine-learning workflows
-for customer analytics.
-
-My experience includes data preparation, feature engineering,
-LoRA fine-tuning, model evaluation, embeddings, vector search,
-and explaining predictions.
-
-I particularly enjoy investigating why a model gets something wrong
-and testing what might improve it.
-
-</details>
-
-<details>
-<summary><strong>🔨 What I'm building now</strong></summary>
-
-I'm rebuilding a **telecom customer churn prediction project** from scratch.
-
-I'm starting with data validation and exploratory analysis, then working
-toward preprocessing, model comparison, explainability, and deployment.
-
-The goal is to build a project I can explain clearly, reproduce,
-and improve over time.
-
-</details>
-
-<details>
-<summary><strong>🌱 What I'm learning</strong></summary>
-
-I'm currently exploring:
-
-- **MLOps:** Reproducible experiments, model tracking, deployment, and monitoring.
-- **AI agents:** Connecting language models with tools and structured workflows.
-- **Model Context Protocol (MCP):** Understanding how AI applications connect to external tools and data.
-
-I'm learning through small implementations and building up from the basics.
-
-</details>
-
-<details>
-<summary><strong>🤝 What I'd like to collaborate on</strong></summary>
-
-I'd enjoy contributing to projects involving machine learning,
-document search, Text-to-SQL, NLP, or customer analytics.
-
-I'm happy to help with data preparation, Python development,
-model experiments, evaluation, and documentation—and learn from
-how others approach the same problems.
-
-[Have an idea? Let's talk.](mailto:bzay1729@gmail.com)
-
-</details>
-
----
+## Selected Work
 
 ## 🚀 Selected Projects
 
