@@ -1,102 +1,208 @@
-![logo](https://github.com/devil-bj/devil-bj/blob/main/mbabanner.jpg)
+![Bijay Pokhrel Banner](https://raw.githubusercontent.com/devil-bj/devil-bj/main/mbabanner.jpg)
 
 <h1 align="center">Hi 👋, I'm Bijay Pokhrel</h1>
+
 <h3 align="center">
-M.S. Computer Science (AI & Cybersecurity) · Southern Methodist University (SMU) · Dallas, TX <br/>
-AI/ML · Data Science · NLP · GenAI (Text-to-SQL)
+AI/ML Engineer · Data Scientist · Generative AI & NLP Practitioner
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/bijay-pokhrel-172ba0251" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+M.S. in Computer Science with specializations in Artificial Intelligence, Machine Learning, and Cybersecurity<br/>
+Southern Methodist University · Dallas, Texas
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bijay-pokhrel-172ba0251">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bzay1729@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bzay1729%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/bzay1729">
-    <img src="https://img.shields.io/badge/GitHub-bzay1729-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-bzay1729-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&height=50&lines=AI+%26+ML+Engineer;Data+Scientist;NLP+%26+LLM+Practitioner;Text-to-SQL+%7C+Spider+Benchmark;Customer+Segmentation+%7C+Telecom+Analytics" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=50&lines=Building+Practical+AI+and+Machine+Learning+Solutions;Text-to-SQL+%7C+RAG+%7C+LLMs+%7C+NLP;Turning+Complex+Data+into+Useful+Insights"
+    alt="Typing introduction"
+  />
 </p>
-
-<img align="right" alt="Coding" width="500"
-src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 ---
 
 ## 👨‍💻 About Me
-I am a **Computer Science graduate (AI & Cybersecurity)** with **hands-on industry experience in AI/ML and Data Science at AT&T**.  
-I build **end-to-end ML and NLP systems**, with experience across **LLMs, Text-to-SQL, customer segmentation, and large-scale data analytics**.
 
-🎯 **Target Roles:** **AI/ML Engineer · Data Scientist · Applied GenAI / NLP Engineer**  
-🧠 **Specializations:**  
-- **Text-to-SQL & Structured Prediction (Spider Benchmark)**  
-- **Customer Segmentation & Behavioral Analytics (Telecom Data)**  
+I am an **AI/ML and Data Science professional** with an M.S. in Computer Science from **Southern Methodist University**. My background combines artificial intelligence, machine learning, generative AI, cybersecurity, software development, and hands-on technical engineering.
 
----
+During the **AT&T and SMU Data Science Scholars Program**, I worked on applied AI projects involving **Text-to-SQL, retrieval-augmented generation, telecom analytics, and cloud-based systems**. I enjoy taking projects from data preparation and experimentation through evaluation, API integration, and deployment.
 
-## 📈 Industry Impact Highlights (AT&T)
-- Improved **Text-to-SQL execution accuracy from 42% → 70%** using **LoRA-fine-tuned LLMs** across multi-schema databases  
-- Conducted **customer segmentation on 200K+ telecom customers** using **EDA, PCA, and clustering** to uncover behavioral patterns for retention strategy  
-- Built explainable ML workflows using **SHAP**, enabling business-facing insights and transparent model decisions  
+- 🔭 Currently building an end-to-end **telecom customer churn prediction system**
+- 🌱 Expanding my knowledge of **MLOps, AI agents, MCP, and production ML systems**
+- 🤝 Open to collaborating on **LLMs, RAG, NLP, computer vision, and applied machine learning**
+- 🎯 Interested in **AI/ML Engineer, Data Scientist, and Applied GenAI/NLP Engineer** roles
+- 📍 Based in the Dallas–Fort Worth area and open to relocation
 
 ---
 
-## 🚀 Featured GitHub Projects
-🔹 **Spider Text-to-SQL Fine-Tuning (LLMs)**  
-Schema-aware fine-tuning on the Spider benchmark using **LLaMA, Unsloth, PEFT, and LoRA**  
-👉 **Repo:** `spider-text-to-sql-finetuning`
+## 📈 Selected Project Impact
 
-🔹 **Media Bias Detection (NLP)**  
-Transformer-based NLP system to classify political and media bias in news text  
-👉 **Repo:** `media-bias-detection-nlp`
-
-🔹 **Phishing Detection using ML & NLP**  
-End-to-end phishing detection pipeline using classical ML and deep learning models  
-👉 **Repo:** `PhishingDetection`
+- Improved **Text-to-SQL execution accuracy from 42% to 70%** through LoRA fine-tuning and model experimentation across multiple database schemas.
+- Analyzed more than **200,000 telecom customer records** using exploratory data analysis, PCA, clustering, and machine learning.
+- Developed a **RAG pipeline for telecom documents** using MiniLM embeddings, FAISS vector search, and language models.
+- Applied **SHAP explainability** to translate model predictions into understandable business insights.
+- Built an operational application at Abbott that reduced queue conflicts by approximately **90%** and contributed an estimated **$70,000 in annual savings**.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Spider Text-to-SQL Fine-Tuning</h3>
+      <p>
+        Schema-aware language-model fine-tuning for translating natural-language questions into executable SQL queries across unseen databases.
+      </p>
+      <p>
+        <strong>Technologies:</strong> Python, LLaMA, SQLCoder, Unsloth, PEFT, LoRA, Hugging Face, Spider
+      </p>
+      <a href="https://github.com/bzay1729/spider-text-to-sql-finetuning">
+        View Repository →
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📰 Media Bias Detection</h3>
+      <p>
+        An NLP system for analyzing news text and classifying patterns associated with political and media bias.
+      </p>
+      <p>
+        <strong>Technologies:</strong> Python, NLP, Transformers, Machine Learning, Text Classification
+      </p>
+      <a href="https://github.com/bzay1729/media-bias-detection-nlp">
+        View Repository →
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛡️ Phishing Detection</h3>
+      <p>
+        An end-to-end machine-learning and NLP pipeline for identifying phishing content using classical and deep-learning approaches.
+      </p>
+      <p>
+        <strong>Technologies:</strong> Python, NLP, scikit-learn, Deep Learning, Model Evaluation
+      </p>
+      <a href="https://github.com/bzay1729/PhishingDetection">
+        View Repository →
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📊 Telecom Customer Churn</h3>
+      <p>
+        An end-to-end classification project covering data validation, EDA, preprocessing, model comparison, explainability, and deployment.
+      </p>
+      <p>
+        <strong>Technologies:</strong> Python, Pandas, scikit-learn, XGBoost, SHAP, FastAPI, Streamlit
+      </p>
+      <em>Currently in development</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming and Data
+
 <p>
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/HuggingFace-000?style=for-the-badge&logo=huggingface" />
-  <img src="https://img.shields.io/badge/PEFT%20(LoRA)-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unsloth-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=databricks" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-000?style=for-the-badge&logo=googlecloud" />
-  <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+### Machine Learning and Generative AI
+
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/PEFT%20%7C%20LoRA-7B2CBF?style=for-the-badge" alt="PEFT and LoRA" />
+  <img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector_Databases-4B0082?style=for-the-badge" alt="Vector Databases" />
+</p>
+
+### Cloud, Deployment, and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Education and Achievements
+
+- 🎓 **M.S. in Computer Science**, Southern Methodist University  
+  Specializations: Artificial Intelligence, Machine Learning, and Cybersecurity
+
+- 🚀 **AT&T and SMU Data Science Scholars Program — 2025**  
+  Selected for a competitive, industry-sponsored program focused on applied AI, data science, cloud computing, and software engineering.
+
+- 🏅 **CompTIA A+ Certified**
+
+- 🌐 **Cisco Routing and Switching Certification**
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bzay1729&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bzay1729&theme=radical" height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bzay1729&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="165"
+    alt="Bijay's GitHub statistics"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bzay1729&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Bijay's GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzay1729&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+    alt="Most used programming languages"
+  />
 </p>
 
 ---
 
-## 🏆 Achievements
-<p align="left">
-  <img src="https://img.shields.io/badge/AT%26T%20%26%20SMU-DSSP%202025-blueviolet?style=for-the-badge" />
-</p>
+## 🤝 Let's Connect
 
-- 🎓 **AT&T & SMU Data Science Scholars Program (DSSP) – 2025**
-- 🏅 Selected for a competitive, industry-sponsored data science program.
-- 🚀 Delivered applied ML and NLP solutions on real-world telecom data.
+I am always interested in connecting with people working in **artificial intelligence, machine learning, generative AI, NLP, cybersecurity, and data science**.
+
+If you are building something interesting, looking for a collaborator, or discussing an opportunity, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/bijay-pokhrel-172ba0251) or [email](mailto:bzay1729@gmail.com).
 
 ---
 
-## 🤝 Open to Collaborate
-Interested in **LLMs, NLP, Text-to-SQL, customer analytics, or applied ML projects**?  
-Feel free to reach out.
+### ⚡ Fun Fact
 
-⚽ Fun fact: Huge Messi fan and love playing soccer!
+I can troubleshoot a motherboard, build a machine-learning pipeline, and explain both in plain English.
+
+<p align="center">
+  <strong>Thanks for visiting my profile!</strong>
+</p>
