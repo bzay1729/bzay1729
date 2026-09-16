@@ -41,7 +41,7 @@
 
 <p align="center">
   M.S. Computer Science, Southern Methodist University<br/>
-  AI/ML &amp; Data Science &amp; Python Engineering · Dallas–Fort Worth, Texas
+  Dallas–Fort Worth, Texas
 </p>
 
 <hr/>
