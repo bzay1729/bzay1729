@@ -8,22 +8,22 @@
   <a href="#selected-work">
     <img
       src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-      style="width: 100%; max-width:1000px;"
+      width="100%"
+      height="450"
       alt="Coding animation — explore my selected work"
     />
   </a>
 </p>
 
 <p align="center">
-  Building useful AI systems through careful experimentation,<br/>
-  clear evaluation, and practical software engineering.
+  Building useful AI systems through careful experimentation, clear evaluation, and practical software engineering.
 </p>
 
 <p align="center">
   <a href="#selected-work">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1400&color=58A6FF&center=true&vCenter=true&width=850&height=65&lines=Natural+Language+%E2%86%92+SQL;Documents+%E2%86%92+Searchable+Knowledge;Customer+Data+%E2%86%92+Actionable+Insights"
-      width="850"
+      width="800"
       alt="Text-to-SQL · Document retrieval · Customer analytics"
     />
   </a>
@@ -41,7 +41,7 @@
 
 <p align="center">
   M.S. Computer Science, Southern Methodist University<br/>
-  AI/ML &amp; Cybersecurity · Dallas–Fort Worth, Texas
+  AI/ML &amp; Data Science &amp; Python Engineering · Dallas–Fort Worth, Texas
 </p>
 
 <hr/>
