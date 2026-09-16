@@ -8,7 +8,7 @@
   <a href="#selected-work">
     <img
       src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-      width="420"
+      width="1000"
       alt="Coding animation — explore my selected work"
     />
   </a>
