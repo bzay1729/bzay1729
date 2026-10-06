@@ -1,26 +1,38 @@
-<!-- ========================================================= -->
-<!--                    BIJAY POKHREL                          -->
-<!--                 GitHub Profile README                     -->
-<!-- ========================================================= -->
+<!-- ============================================================ -->
+<!--                         BIJAY POKHREL                         -->
+<!--                     GitHub Profile README                     -->
+<!-- ============================================================ -->
+
 
 <div align="center">
 
 # 👋 Hi, I'm Bijay Pokhrel
 
-### AI/ML Engineer · Python Engineer · Generative AI · RAG · MLOps
+### AI/ML Engineering · Python · Generative AI · RAG · MLOps
 
 <p>
-I build practical AI systems — from experimentation and model evaluation
-to APIs, containers, CI/CD, and deployed applications.
+  I build practical AI and machine-learning systems from
+  <strong>experimentation → evaluation → APIs → containers → CI/CD → deployment.</strong>
 </p>
 
 <br/>
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1100&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Building+Production-Ready+AI+Systems;Documents+%E2%86%92+Searchable+Knowledge;Natural+Language+%E2%86%92+SQL;Customer+Data+%E2%86%92+Actionable+Insights;Models+%E2%86%92+APIs+%E2%86%92+Docker+%E2%86%92+Deployment"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Building+Production-Ready+AI+Systems;Documents+%E2%86%92+Searchable+Knowledge;Natural+Language+%E2%86%92+SQL;Customer+Data+%E2%86%92+Actionable+Insights;Models+%E2%86%92+APIs+%E2%86%92+Docker+%E2%86%92+Deployment"
 />
 
-<br/>
+<br/><br/>
+
+<a href="#featured-projects">
+  <img
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+    width=100%
+    height=500
+    alt="Coding animation — explore my featured projects"
+  />
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/bzay1729?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -42,50 +54,108 @@ to APIs, containers, CI/CD, and deployed applications.
 
 <br/><br/>
 
-📍 Dallas–Fort Worth, Texas  
-🎓 M.S. Computer Science — Southern Methodist University
+📍 **Dallas–Fort Worth, Texas**  
+🎓 **M.S. Computer Science — Southern Methodist University**
 
 </div>
+
+---
+
+# 👨‍💻 About Me
+
+I am a software and AI/ML engineer with experience across
+**machine learning, generative AI, Python development, data science,
+manufacturing technology, software engineering, and technical operations**.
+
+My recent work focuses on building systems that go beyond notebooks:
+
+```text
+Data
+  ↓
+Experimentation
+  ↓
+Evaluation
+  ↓
+Model / Retrieval System
+  ↓
+API
+  ↓
+Application
+  ↓
+Testing
+  ↓
+Docker
+  ↓
+CI/CD
+  ↓
+Cloud Deployment
+```
+
+I enjoy working on problems involving:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📚 Retrieval-Augmented Generation
+- 🔤 Natural Language Processing
+- 🐍 Python Engineering
+- 🚀 MLOps
+- ☁️ Cloud AI Systems
+- 📊 Data Science
+- 🔐 AI + Cybersecurity
 
 ---
 
 # 🚀 What I'm Building Right Now
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
 ## 📄 Manufacturing Document Intelligence RAG
 
-Building an end-to-end AI system that turns complex manufacturing,
+Building an end-to-end AI system for turning manufacturing,
 quality, and technical documents into searchable knowledge.
 
-### Current Development
+### Current Work
 
-- PDF parsing and text extraction
-- OCR detection and fallback processing
-- Document structure preservation
-- Text cleaning and chunking
+- PDF parsing
+- Native text extraction
+- OCR detection
+- OCR fallback architecture
+- Document cleaning
+- Section-aware chunking
 - Metadata extraction
 - Embeddings
-- Vector search
-- Retrieval pipelines
-- RAG architecture
+- Vector indexing
+- Semantic retrieval
+- RAG pipelines
 - Retrieval evaluation
-- API development
+- API integration
 - Deployment architecture
+
+### Documents
+
+The system is being designed around documents such as:
+
+- SOPs
+- Quality manuals
+- Work instructions
+- Engineering documentation
+- Manufacturing procedures
+- Technical reference material
 
 ### Goal
 
-Build a production-style document intelligence system capable of
-retrieving accurate information from SOPs, quality manuals,
-technical documentation, and other unstructured documents.
+Create a production-style document intelligence platform that can
+retrieve accurate evidence from large collections of unstructured
+technical documents.
 
-**Tech**
+**Stack**
 
-`Python` `RAG` `OCR` `PyMuPDF` `Embeddings` `Vector Search`
-`LLMs` `FastAPI`
+`Python` `PyMuPDF` `OCR` `RAG` `Embeddings`
+`Vector Search` `LLMs` `FastAPI`
 
 </td>
 
@@ -93,48 +163,58 @@ technical documentation, and other unstructured documents.
 
 ## 🏢 Blue Moon Apartments
 
-Building a complete property-management application for tenants
-and administrators.
+Building a complete apartment-management application covering
+tenant and administrative workflows.
 
-### Core Features
+### Tenant Features
 
-- Tenant authentication
-- Profile management
-- Rent dashboard
-- Payment tracking
+- Authentication
+- Tenant profile
+- Apartment details
+- Current balance
+- Rent payments
 - Payment history
-- Maintenance requests
-- Maintenance status tracking
+- Autopay workflows
 - Lease information
+- Maintenance requests
+- Maintenance tracking
 - Announcements
-- Administrative dashboard
+
+### Admin Features
+
 - Tenant management
-- Apartment availability
+- Apartment management
+- Payment visibility
+- Maintenance management
+- Occupancy overview
+- Availability tracking
 
 ### Engineering Goals
 
-- Modular architecture
+- Modular application design
 - Database integration
-- Docker containerization
-- Automated testing
-- GitHub Actions
-- Deployment
+- Authentication
+- Testing
+- Docker
+- CI/CD
+- Cloud deployment
 
-**Tech**
+**Stack**
 
-`Python` `Streamlit` `SQL` `Docker`
-`GitHub Actions` `Cloud Deployment`
+`Python` `Streamlit` `SQL`
+`Docker` `GitHub Actions`
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-## 🧪 Currently Exploring
+# 🧪 Currently Learning & Expanding
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/MLOps-Learning-blueviolet?style=for-the-badge"/>
 
@@ -146,75 +226,87 @@ and administrators.
 
 <img src="https://img.shields.io/badge/Production_AI-Engineering-111111?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-# 📌 Engineering Snapshot
+# 📌 Engineering Impact
 
 <div align="center">
 
-| 🚀 Work | 📊 Impact |
+| Area | Result |
 |---|---:|
-| **Text-to-SQL** | Execution Accuracy **42% → 70%** |
-| **Telecom Customer Analytics** | **200K+ records** |
-| **Abbott Instrument Application** | Queue conflicts reduced **~90%** |
-| **Process Improvement** | Estimated **~$70K/year savings** |
-| **Churn Prediction** | ROC-AUC **0.8487** |
-| **Churn Prediction** | Recall **72.73%** |
-| **ML Engineering** | API + UI + Docker + CI/CD + Deployment |
+| 🤖 **Text-to-SQL** | Execution accuracy **42% → 70%** |
+| 📊 **Telecom Analytics** | Worked with **200K+ records** |
+| 🏭 **Abbott Instrument App** | Queue conflicts reduced **~90%** |
+| 💰 **Process Improvement** | Estimated **~$70K annual savings** |
+| 📈 **Churn Prediction** | Test ROC-AUC **0.8487** |
+| 🎯 **Churn Model Recall** | **72.73%** |
+| 🚀 **ML Engineering** | FastAPI + Streamlit + Docker + CI/CD + Deployment |
 
 </div>
 
 ---
 
-<a id="selected-work"></a>
+<a id="featured-projects"></a>
 
 # 🧠 Featured Projects
 
 ---
 
-## 📊 Telecom Customer Churn Prediction
+## 📊 1. Telecom Customer Churn Prediction
 
-### End-to-End Machine Learning Engineering Project
+### End-to-End Machine Learning Engineering
 
-Built a complete machine-learning workflow that goes beyond
-model experimentation and delivers a deployable prediction system.
+A complete machine-learning system built from raw telecom data
+through production-style deployment.
 
 ### Architecture
 
 ```text
-Raw Telecom Data
-        ↓
+Raw Dataset
+     ↓
 Data Validation
-        ↓
+     ↓
 Exploratory Data Analysis
-        ↓
+     ↓
 Feature Engineering
-        ↓
-Train / Validation Strategy
-        ↓
+     ↓
+Train / Test Strategy
+     ↓
+Cross Validation
+     ↓
 Model Comparison
-        ↓
-Hyperparameter Optimization
-        ↓
+     ↓
+Hyperparameter Tuning
+     ↓
 Threshold Optimization
-        ↓
+     ↓
 Final Evaluation
-        ↓
+     ↓
 Model Serialization
-        ↓
-FastAPI Prediction API
-        ↓
-Streamlit Application
-        ↓
+     ↓
+FastAPI
+     ↓
+Streamlit
+     ↓
 Pytest
-        ↓
+     ↓
 Docker
-        ↓
+     ↓
 GitHub Actions
-        ↓
+     ↓
 Cloud Deployment
+```
+
+### Dataset
+
+```text
+Rows:       7,043
+Columns:    21
+Target:     Churn
+Train:      5,634
+Test:       1,409
 ```
 
 ### Models Evaluated
@@ -224,7 +316,7 @@ Cloud Deployment
 - Random Forest
 - Gradient Boosting
 
-### Final Production Model Results
+### Final Production Results
 
 | Metric | Result |
 |---|---:|
@@ -235,81 +327,111 @@ Cloud Deployment
 | ROC-AUC | **0.8487** |
 | Decision Threshold | **0.35** |
 
-### Final Confusion Matrix
+### Confusion Matrix
 
 ```text
-TN = 825
-FP = 210
-FN = 102
-TP = 272
+                 Predicted
+              Stay      Churn
+
+Actual Stay    825        210
+Actual Churn   102        272
 ```
 
-### Engineering Features
+### Engineering Components
 
-- Reproducible ML pipeline
-- Model comparison
+- Data validation
+- Exploratory analysis
+- Reproducible preprocessing
 - Cross-validation
-- Hyperparameter tuning
+- Model comparison
+- RandomizedSearchCV
+- GridSearchCV
 - Threshold optimization
 - Model serialization
-- FastAPI service
-- Streamlit frontend
-- Pytest API testing
-- Docker containerization
-- GitHub Actions CI/CD
+- FastAPI prediction API
+- Streamlit user interface
+- Pytest API tests
+- Docker container
+- GitHub Actions
 - Public cloud deployment
 
 ### Technologies
 
-`Python` `Pandas` `NumPy` `scikit-learn`
-`FastAPI` `Streamlit` `Pytest`
-`Docker` `GitHub Actions`
+`Python`
+`Pandas`
+`NumPy`
+`scikit-learn`
+`FastAPI`
+`Streamlit`
+`Pytest`
+`Docker`
+`GitHub Actions`
 
 ### 🌐 Live Application
 
 <a href="https://telecom-customer-churn-analysis.streamlit.app">
-  <img src="https://img.shields.io/badge/Open_Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_Live_Application-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 &nbsp;
 
-<a href="https://github.com/bzay1729">
-  <img src="https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/bzay1729?tab=repositories">
+  <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 ---
 
-## 🧠 Text-to-SQL with Language Models
+## 🧠 2. Text-to-SQL with Language Models
 
 ### Natural Language → Executable SQL
 
 Worked on language-model fine-tuning for translating natural-language
-questions into SQL queries across different database schemas.
+questions into SQL queries across multiple database schemas.
 
 ### Project Highlights
 
-- Worked with the **Spider benchmark**
-- Fine-tuned language models for SQL generation
-- Used parameter-efficient fine-tuning
-- Applied **LoRA**
-- Applied **PEFT**
-- Used **Unsloth**
-- Evaluated SQL generation using execution-based metrics
-- Compared multiple model families
-- Improved execution accuracy from:
+- Spider benchmark
+- Cross-schema SQL generation
+- Parameter-efficient fine-tuning
+- LoRA
+- PEFT
+- Unsloth
+- Execution-based evaluation
+- Model comparison
+- Hyperparameter experimentation
+- API-oriented implementation
+
+### Models Explored
+
+`CodeLlama`
+
+`Mistral`
+
+`SQLCoder`
+
+`DeepSeek`
+
+`GPT`
+
+### Result
 
 <div align="center">
 
-## **42% → 70%**
+### Execution Accuracy
+
+# **42% → 70%**
 
 </div>
 
-### Models / Technologies
+### Technologies
 
-`CodeLlama` `Mistral` `SQLCoder` `DeepSeek`
-`Python` `SQL`
-`Hugging Face` `LoRA`
-`PEFT` `Unsloth`
+`Python`
+`SQL`
+`Hugging Face`
+`LoRA`
+`PEFT`
+`Unsloth`
+`FastAPI`
 
 <a href="https://github.com/bzay1729/spider-text-to-sql-finetuning">
   <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github"/>
@@ -317,39 +439,37 @@ questions into SQL queries across different database schemas.
 
 ---
 
-## 📚 Telecom Document Search with RAG
+## 📚 3. Telecom Document Intelligence / RAG
 
-### Documents → Searchable Knowledge
+Developed through the **AT&T + SMU Data Science Scholars Program**.
 
-Built during the **AT&T + SMU Data Science Scholars Program**.
+The project focused on retrieving relevant knowledge from telecom
+documentation and supplying evidence to language models.
 
-The goal was to retrieve relevant information from telecom documents
-and provide the retrieved context to a language model.
-
-### RAG Pipeline
+### RAG Architecture
 
 ```text
-Telecom Documents
-        ↓
+Documents
+    ↓
 PDF Parsing
-        ↓
+    ↓
 Text Extraction
-        ↓
-Text Cleaning
-        ↓
+    ↓
+Cleaning
+    ↓
 Chunking
-        ↓
+    ↓
 Embeddings
-        ↓
+    ↓
 FAISS
-        ↓
-Semantic Search
-        ↓
+    ↓
+Semantic Retrieval
+    ↓
 Relevant Context
-        ↓
+    ↓
 Language Model
-        ↓
-Grounded Response
+    ↓
+Grounded Answer
 ```
 
 ### Technologies
@@ -364,30 +484,31 @@ Grounded Response
 
 `FAISS`
 
-`Vector Search`
+`Semantic Search`
 
 `RAG`
 
 `LLMs`
 
 This project helped establish the foundation for my current
-**Manufacturing Document Intelligence RAG** project.
+**Manufacturing Document Intelligence RAG** work.
 
 ---
 
-## 📈 Telecom Customer Analytics
+## 📈 4. Telecom Customer Analytics
 
-Worked with a telecom customer dataset containing more than:
+Worked with more than:
 
 <div align="center">
 
-## **200,000+ Records**
+# **200,000+ Customer Records**
 
 </div>
 
 ### Work Included
 
 - Data collection
+- Database and file integration
 - Data cleaning
 - Dataset merging
 - Exploratory analysis
@@ -395,56 +516,67 @@ Worked with a telecom customer dataset containing more than:
 - Scaling
 - Train/test preparation
 - Classification
-- Clustering
+- Customer segmentation
 - PCA
-- K-means
+- K-means clustering
 - SMOTE
-- Model evaluation
-- SHAP model explainability
+- SHAP explainability
 
 ### Technologies
 
-`Python` `Pandas` `NumPy`
+`Python`
+`Pandas`
+`NumPy`
 `scikit-learn`
-`PCA` `K-Means`
-`SMOTE` `SHAP`
+`PCA`
+`K-Means`
+`SMOTE`
+`SHAP`
 
 ---
 
-## 🏭 Instrument Parking Application — Abbott
+## 🏭 5. Instrument Parking Application — Abbott
 
-### Real-World Process Improvement Through Software
+### Operational Software + Process Improvement
 
-While working at Abbott, I identified an operational problem involving
-instrument tracking and team coordination.
+While working at Abbott, I identified a workflow problem involving
+instrument tracking, queues, and coordination across teams.
 
 I developed an internal application using:
 
-`Power Apps` `Power Automate` `SharePoint`
+`Power Apps`
 
-### Results
+`Power Automate`
+
+`SharePoint`
+
+### Impact
 
 <div align="center">
 
-## **~90% Reduction**
-### in queue conflicts
+# **~90%**
 
-## **~$70,000 / Year**
-### estimated annual savings
+### Reduction in Queue Conflicts
+
+<br/>
+
+# **~$70,000 / Year**
+
+### Estimated Annual Savings
 
 </div>
 
-This project reinforced one of the most important lessons in my
-engineering journey:
+The project strengthened my interest in building software around
+real workflows rather than forcing workflows around software.
 
-> **Technology works best when it is built around how people actually work.**
+> **Good engineering starts with understanding how people actually work.**
 
 ---
 
-## 📰 Media Bias Detection
+## 📰 6. Media Bias Detection
 
-NLP project exploring classification of political and media bias
-using transformer-based approaches.
+An NLP project exploring the classification of media and political bias
+using transformer-based methods.
 
 ### Focus
 
@@ -462,10 +594,10 @@ using transformer-based approaches.
 
 ---
 
-## 🛡️ Phishing Detection
+## 🛡️ 7. Phishing Detection
 
-Machine-learning and NLP project focused on identifying
-potential phishing content.
+Machine-learning and NLP approaches for detecting potentially
+malicious and phishing content.
 
 ### Focus
 
@@ -487,15 +619,19 @@ potential phishing content.
 
 <div align="center">
 
-## 💻 Programming
+## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,dart,html,css&perline=10"/>
+<img
+  src="https://skillicons.dev/icons?i=python,java,cpp,js,dart,html,css&perline=10"
+/>
 
 <br/><br/>
 
-## 🧠 AI / Machine Learning
+## 📊 Data & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=10"/>
+<img
+  src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=10"
+/>
 
 <br/>
 
@@ -507,15 +643,15 @@ potential phishing content.
 
 <br/><br/>
 
-## 🤖 Generative AI / NLP
+## 🤖 Generative AI / NLP / RAG
 
 <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-673AB7?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LoRA-Parameter_Efficient_Fine_Tuning-0081A5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LoRA-Fine_Tuning-007ACC?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/PEFT-Model_Fine_Tuning-0057B8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PEFT-Parameter_Efficient_FT-0057B8?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/FAISS-Vector_Search-008000?style=for-the-badge"/>
 
@@ -527,7 +663,9 @@ potential phishing content.
 
 ## 🚀 APIs & Applications
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,react&perline=10"/>
+<img
+  src="https://skillicons.dev/icons?i=fastapi,django,react&perline=10"
+/>
 
 <br/>
 
@@ -537,19 +675,25 @@ potential phishing content.
 
 ## ☁️ Cloud / DevOps / MLOps
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,githubactions,linux&perline=10"/>
+<img
+  src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,githubactions,linux&perline=10"
+/>
 
 <br/><br/>
 
 ## 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&perline=10"/>
+<img
+  src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&perline=10"
+/>
 
 <br/><br/>
 
 ## 🔧 Development Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,postman&perline=10"/>
+<img
+  src="https://skillicons.dev/icons?i=vscode,postman&perline=10"
+/>
 
 </div>
 
@@ -557,22 +701,23 @@ potential phishing content.
 
 # 🧰 Technology Overview
 
-| Area | Technologies |
+| Category | Technologies / Methods |
 |---|---|
 | **Programming** | Python, Java, C++, JavaScript, Dart, SQL |
-| **Data** | Pandas, NumPy, Feature Engineering, EDA |
+| **Data Analysis** | Pandas, NumPy, EDA, Feature Engineering |
 | **Machine Learning** | scikit-learn, Logistic Regression, Random Forest, Gradient Boosting |
 | **Deep Learning** | TensorFlow, PyTorch |
-| **GenAI** | Hugging Face, Transformers, LoRA, PEFT, Unsloth |
-| **RAG** | Embeddings, FAISS, Vector Search, Document Retrieval |
-| **NLP** | Text Classification, Transformers, Text-to-SQL |
+| **Generative AI** | Hugging Face, Transformers, LoRA, PEFT, Unsloth |
+| **RAG** | Embeddings, FAISS, Vector Search, Semantic Retrieval |
+| **NLP** | Text Classification, Text-to-SQL, Transformers |
 | **Explainability** | SHAP |
+| **Document AI** | PDF Parsing, OCR Detection, Text Extraction, Chunking |
 | **APIs** | FastAPI |
 | **Applications** | Streamlit, React, Flutter, Django |
 | **Testing** | Pytest |
 | **Containers** | Docker |
 | **CI/CD** | GitHub Actions |
-| **Cloud** | AWS, Azure, Azure OpenAI |
+| **Cloud** | AWS, Azure, Azure AI, Azure OpenAI |
 | **Data Platforms** | Databricks |
 | **Visualization** | Matplotlib, Seaborn, Tableau |
 | **Business Apps** | Power Apps, Power Automate, SharePoint |
@@ -590,7 +735,7 @@ def build_solution(problem):
 
     baseline = establish_baseline(data)
 
-    experiments = experiment(
+    experiments = run_experiments(
         data=data,
         baseline=baseline
     )
@@ -609,14 +754,14 @@ def build_solution(problem):
 
     pipeline = build_ci_cd(container)
 
-    deploy(pipeline)
+    deployment = deploy(pipeline)
 
-    monitor(solution)
+    monitor(deployment)
 
-    return solution
+    return deployment
 ```
 
-For me, engineering is not simply:
+My goal is not simply:
 
 ```text
 Train Model → Report Accuracy
@@ -626,23 +771,23 @@ I prefer:
 
 ```text
 Understand
-   ↓
-Measure
-   ↓
+    ↓
+Establish Baseline
+    ↓
 Experiment
-   ↓
-Evaluate
-   ↓
-Understand Failures
-   ↓
+    ↓
+Measure
+    ↓
+Analyze Failures
+    ↓
 Improve
-   ↓
+    ↓
 Build
-   ↓
+    ↓
 Test
-   ↓
+    ↓
 Deploy
-   ↓
+    ↓
 Learn
 ```
 
@@ -653,9 +798,10 @@ Learn
 <table>
 
 <tr>
+
 <td width="22%" valign="top">
 
-### AT&T
+## AT&T
 
 </td>
 
@@ -664,28 +810,32 @@ Learn
 ### Data Science / Machine Learning Intern
 
 Worked through the **AT&T + SMU Data Science Scholars Program**
-on applied data science and AI projects.
+on applied data science and artificial-intelligence projects.
 
-Areas included:
+### Areas
 
 - Machine learning
-- Telecom analytics
+- Telecom customer analytics
+- Data processing
 - Text-to-SQL
 - LoRA / PEFT
+- Language models
 - RAG
 - Embeddings
-- FAISS
+- Vector search
 - Model evaluation
 - Python APIs
-- Cloud-based experimentation
+- Cloud experimentation
 
 </td>
+
 </tr>
 
 <tr>
+
 <td valign="top">
 
-### Abbott
+## Abbott
 
 </td>
 
@@ -698,68 +848,81 @@ Worked on:
 - Functional testing
 - Electrical testing
 - Failure analysis
+- Technical troubleshooting
 - Manufacturing workflows
 - NPI activities
-- Technical documentation
+- Documentation
 - Process improvement
 
-Built the Instrument Parking application that helped reduce
-queue conflicts by approximately **90%** and contributed an estimated
+Designed an internal application that helped reduce queue conflicts
+by approximately **90%** and contributed an estimated
 **$70K in annual savings**.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td valign="top">
 
-### Reconext
+## Reconext
 
 </td>
 
 <td valign="top">
 
-### Motherboard Engineering
+### Motherboard Engineer
 
-Worked on hardware troubleshooting, diagnosis,
-repair, and technical problem solving.
+Worked with:
+
+- Hardware troubleshooting
+- Motherboard diagnosis
+- Failure analysis
+- Repair
+- Technical problem-solving
 
 </td>
+
 </tr>
 
 <tr>
+
 <td valign="top">
 
-### Aspiring Tech
+## Aspiring Tech
 
 </td>
 
 <td valign="top">
 
-### Mobile Application Development
+### Mobile Application Developer
 
-Worked on mobile software development and application engineering.
+Worked on application development and software engineering.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td valign="top">
 
-### Education
+## Education
 
 </td>
 
 <td valign="top">
 
-### Assistant Lecturer & IT Administration
+### Assistant Lecturer & IT Administrator
 
-Previously taught programming and supported IT systems.
+Previously taught programming while supporting technical systems.
 
-Teaching strengthened my ability to explain technical concepts
-clearly and break complex problems into understandable steps.
+Teaching helped strengthen my ability to break complex technical
+concepts into understandable steps.
 
 </td>
+
 </tr>
 
 </table>
@@ -779,6 +942,8 @@ clearly and break complex problems into understandable steps.
 `Machine Learning`
 
 `Cybersecurity`
+
+`Computer / System Security`
 
 `Computer Networks`
 
@@ -802,7 +967,7 @@ clearly and break complex problems into understandable steps.
 
 ## AT&T + SMU Data Science Scholars Program
 
-Applied training and project work in:
+Applied training and project experience across:
 
 `Data Science`
 
@@ -818,27 +983,30 @@ Applied training and project work in:
 
 ---
 
-## AWS Machine Learning
+## ☁️ AWS Machine Learning
 
-Currently expanding my knowledge of:
+Currently expanding my knowledge in:
 
-- AWS machine-learning services
-- Production ML systems
+- AWS machine-learning architecture
+- Cloud AI systems
 - Model deployment
-- Cloud architecture
+- Production ML workflows
+- Scalable applications
 
 ---
 
-## MLOps
+## 🚀 MLOps
 
-Currently developing deeper practical understanding of:
+Currently strengthening practical experience with:
 
 ```text
-Model Development
+Experimentation
       ↓
 Version Control
       ↓
 Testing
+      ↓
+Model / Retrieval Packaging
       ↓
 API
       ↓
@@ -846,25 +1014,25 @@ Docker
       ↓
 CI/CD
       ↓
-Deployment
+Cloud Deployment
       ↓
 Monitoring
 ```
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img
-  width="48%"
+  height="175"
   src="https://github-readme-stats.vercel.app/api?username=bzay1729&show_icons=true&hide_border=true&rank_icon=github"
 />
 
 <img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzay1729&layout=compact&hide_border=true"
+  height="175"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzay1729&layout=compact&hide_border=true&langs_count=8"
 />
 
 <br/><br/>
@@ -883,6 +1051,7 @@ Monitoring
 <div align="center">
 
 <img
+  width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=bzay1729&hide_border=true&area=true"
 />
 
@@ -890,9 +1059,9 @@ Monitoring
 
 ---
 
-# 🎯 What I'm Looking For
+# 🎯 What I'm Interested In
 
-I'm especially interested in opportunities involving:
+I am especially interested in engineering opportunities involving:
 
 <div align="center">
 
@@ -910,20 +1079,23 @@ I'm especially interested in opportunities involving:
 
 ### ☁️ Cloud AI Systems
 
+### 📊 Data Science
+
 </div>
 
-I'm based in **Dallas–Fort Worth, Texas** and open to
-opportunities where I can continue building useful,
-production-oriented AI systems.
+I am based in **Dallas–Fort Worth, Texas** and open to opportunities
+where I can continue building useful, production-oriented systems.
 
 ---
 
 # ⚡ Beyond the Job Title
 
-My engineering journey has included:
+My journey has crossed several areas of technology:
 
 ```text
 Teaching Programming
+        ↓
+Software Development
         ↓
 Mobile Development
         ↓
@@ -946,15 +1118,19 @@ I've taught programming.
 
 I've worked with manufacturing systems.
 
-I've analyzed telecom data.
+I've analyzed large telecom datasets.
 
 I've fine-tuned language models.
+
+I've built RAG systems.
 
 I've built APIs.
 
 I've containerized ML applications.
 
-I've deployed AI systems.
+I've created CI/CD pipelines.
+
+I've deployed AI applications.
 
 And I am still learning.
 
@@ -969,27 +1145,27 @@ And I am still learning.
 
 <img
   src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-  alt="Quote of the Day"
+  alt="Dynamic Quote"
 />
 
 </div>
 
 ---
 
-# 🧠 My Engineering Mindset
+# 🧠 Engineering Mindset
 
 <div align="center">
 
-### Build → Measure → Learn → Improve → Ship
+## Build → Measure → Learn → Improve → Ship
 
 </div>
 
-I believe strong engineering is not about knowing every technology.
+I believe strong engineering is not about memorizing every technology.
 
 It is about being able to:
 
-**understand a problem, learn what is necessary, measure the result,
-and build something useful.**
+**understand the problem · learn what is necessary · measure the result ·
+improve the system · build something useful**
 
 ---
 
@@ -998,7 +1174,7 @@ and build something useful.**
 <div align="center">
 
 If you're working on **AI, ML, Python, RAG, MLOps,
-or an interesting engineering problem**, I'd be happy to connect.
+data science, or an interesting engineering problem**, I'd be happy to connect.
 
 <br/><br/>
 
@@ -1020,6 +1196,6 @@ or an interesting engineering problem**, I'd be happy to connect.
 
 ### ⭐ Thanks for visiting my profile.
 
-### Keep Building. Keep Learning. Keep Shipping. 🚀
+### Keep Building · Keep Learning · Keep Shipping 🚀
 
 </div>
