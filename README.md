@@ -1021,31 +1021,6 @@ Monitoring
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api?username=bzay1729&show_icons=true&hide_border=true&rank_icon=github"
-/>
-
-<img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzay1729&layout=compact&hide_border=true&langs_count=8"
-/>
-
-<br/><br/>
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=bzay1729&hide_border=true"
-/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
